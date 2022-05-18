@@ -1,6 +1,7 @@
 # Weather-Forecast:cloud_with_lightning_and_rain:
 
-- Created a weather forecast app using tkinter. This GUI app will tell us the current weather of a particular city along with temperature details along with other details. 
+- Curated a Weather Forecast app using tkinter. This GUI app will tell us the current weather of a particular city along with temperature details along with other details. 
+- Scrapped data from Google Weather adopting API’s and Python libraries such as requests and beautifulsoup4
 ## Libraries to be installed
 - Requests
 - BeautifulSoup
